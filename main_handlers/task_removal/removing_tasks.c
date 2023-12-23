@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main_handlers/buffer_clean/buffer_cleaning.h"
-#include "main_handlers/task_removal/removing_tasks.h"
+#include "../buffer_clean/buffer_cleaning.h"
+#include "removing_tasks.h"
 
 void task_remove(char ***all_tasks, int *num_tasks)
 {

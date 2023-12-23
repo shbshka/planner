@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "main_handlers/buffer_clean/buffer_cleaning.h"
-#include "main_handlers/task_addition/adding_tasks.h"
+#include "../buffer_clean/buffer_cleaning.h"
+#include "adding_tasks.h"
 
 char* add_task()
 {

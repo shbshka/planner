@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "main_handlers/adding_tasks.h"
-#include "main_handlers/viewing_tasks.h"
-#include "main_handlers/removing_tasks.h"
-#include "main_handlers/completing_tasks.h"
-#include "main_handlers/buffer_cleaning.h"
+#include "main_handlers/task_addition/adding_tasks.h"
+#include "main_handlers/task_viewing/viewing_tasks.h"
+#include "main_handlers/task_removal/removing_tasks.h"
+#include "main_handlers/task_completion/completing_tasks.h"
+#include "main_handlers/buffer_clean/buffer_cleaning.h"
 
 int main()
 {   

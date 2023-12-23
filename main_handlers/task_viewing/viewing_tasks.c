@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main_handlers/task_viewing/viewing_tasks.h"
+#include "viewing_tasks.h"
 
 
 void task_view(char ***all_tasks, int *num_tasks)
